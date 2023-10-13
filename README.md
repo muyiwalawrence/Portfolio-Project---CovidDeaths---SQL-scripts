@@ -1,1 +1,1 @@
-# Portfolio-Project---CovidDeaths---SQL-scripts 
+# SQL Project/CovidDeaths 
